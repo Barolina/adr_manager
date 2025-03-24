@@ -1,12 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36" version="26.1.1" pages="2">
   <diagram name="Страница — 1" id="m0_bKXBMjlizUSDn5kko">
-    <mxGraphModel dx="2437" dy="1394" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3643" dy="1693" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object placeholders="1" c4Name="Сервисы Гостех" c4Type="SystemScopeBoundary" c4Application="Software System" label="&lt;font&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="v6n_3Fk70Y2bj0iE5rNr-21">
           <mxCell style="rounded=1;fontSize=13;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=#E6E6E6;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="272" y="1954" width="1430" height="858" as="geometry" />
+            <mxGeometry x="272" y="1954" width="1430" height="818" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="BackAPI" c4Type="ContainerScopeBoundary" c4Application="symfony; php8" label="&lt;font&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="v6n_3Fk70Y2bj0iE5rNr-3">
@@ -26,7 +26,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v6n_3Fk70Y2bj0iE5rNr-11" value="&lt;span style=&quot;font-family: monospace; text-align: left; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot; class=&quot;&quot;&gt;https:&lt;/span&gt;&lt;span style=&quot;font-family: monospace; text-align: left; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot; class=&quot;hljs-comment&quot;&gt;//iam.fgiaspr-customer.test.pd15.mcx.mtp/api&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=13;" vertex="1" connectable="0" parent="v6n_3Fk70Y2bj0iE5rNr-10">
+        <mxCell id="v6n_3Fk70Y2bj0iE5rNr-11" value="&lt;span class=&quot;&quot; style=&quot;font-family: monospace; text-align: left; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;https:&lt;/span&gt;&lt;span class=&quot;hljs-comment&quot; style=&quot;font-family: monospace; text-align: left; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;//iam.fgiaspr-customer.test.pd15.mcx.mtp/api&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=13;fontColor=#660000;" vertex="1" connectable="0" parent="v6n_3Fk70Y2bj0iE5rNr-10">
           <mxGeometry x="-0.2667" y="8" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -400,7 +400,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Platform V SMEV GateWay" c4Type="СМЭВ3" c4Description="Интеграция со СМЭВ" label="&lt;font&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" id="oGXm2PhDoBbOLXhNwGrq-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontSize=13;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#660000;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];fontSize=13;" vertex="1" parent="1">
             <mxGeometry x="871" y="2265" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
@@ -428,8 +428,8 @@
             <mxGeometry x="76" y="228.99680297397754" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="oGXm2PhDoBbOLXhNwGrq-16" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;ФГИАС ПР&amp;nbsp; на&amp;nbsp; гостехе Компонентная схема&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=#404040;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="76" y="529" width="1222" height="228" as="geometry" />
+        <mxCell id="oGXm2PhDoBbOLXhNwGrq-16" value="&lt;font style=&quot;font-size: 62px;&quot;&gt;&lt;b&gt;ФГИАС ПР&amp;nbsp; на&amp;nbsp; гостехе Компонентная схема&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;fontColor=#404040;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="76" y="529" width="1601" height="228" as="geometry" />
         </mxCell>
         <mxCell id="oGXm2PhDoBbOLXhNwGrq-17" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="354" y="2503" width="837" height="210" as="geometry" />
